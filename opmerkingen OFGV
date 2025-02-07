@@ -1,0 +1,6 @@
+Het lijkt alsof de applicatie langzaam opstart en traag reageert op de start-button. Het scherm bouwt pas volledig op wanneer een keer in- of uitgezoomd wordt
+Optie "Geen propaantank" werkt correct
+Bij gegevens leverancier is het voldoende om alleen de naam van de leverancier te weten.
+Er kan bij de inhoud van de propaantqank een waarde 0 (nul) ingevuld worden. Dat moet niet mogleijk zijn. Er zou een melding moeten komen "De propaantank mag niet leeg zijn"
+De bovengrens van 13m3 is wel goed afgevangen
+Wanneer bij de laatste controle wijzigingen worden aangebracht, moet ook de rest van de schermen weer worden doorlopen. Het is logischer om dan terug tre keren naar het scherm "Controleren en verzenden"  
